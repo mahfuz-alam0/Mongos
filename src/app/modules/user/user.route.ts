@@ -18,4 +18,4 @@ router.get("/admins", getAdminUsers);
 router.get("/:id", getUserById);
 router.post("/create-user", createUser);
 
-export default router;
+export default router; 
